@@ -2,7 +2,7 @@
   "spellcheck": false,
   "promptDelete": false,
   "newFileLocation": "root",
-  "smartIndentList": true,
+  "smartIndentList": false,
   "readableLineLength": false,
   "alwaysUpdateLinks": true
 }
